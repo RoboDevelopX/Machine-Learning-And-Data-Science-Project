@@ -2,8 +2,6 @@
 
 ![Research Projects](https://user-images.githubusercontent.com/91561594/154006598-c4ccf4e8-6ffb-479c-8f82-ca922c43b81d.jpg)
 
-## Youtube Video: https://youtu.be/T0wEstYgztU
-
 ## IMAGE PROCESSING/ COMPUTER VISION AND OPENCV
 
 1. Abnormal Event Detection in Videos Using Spatiotemporal Autoencoder
@@ -55,37 +53,4 @@ DATA SCIENCE WITH MACHINE LEARNING
 8.  Personality prediction from real-time tweets using Natural language processing
 9.  Cricket match outcome prediction using Decision Tree and Random Forest
 10. Real estate price prediction using machine learning techniques
-
-
-
-
-
-<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Shivam Vatshayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-<h3 align="center">I'm a Developer from India ❤</h3>
-
-
-
-
-**You Can use this Beautiful Projects for your college Project and get good marks too.**
-
-Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
-
-💌 Feel **free** to contact me for any kind of help on any projects.
-
-### Need Code, Documents & Explanation video ? 
-
-## How to Reach me :
-
-### Mail : vatshayan007@gmail.com 
-
-### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
-
-### Website : https://www.finalproject.in/
-
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
-Mail/Message me for Projects Help 🙏🏻
-
-
-## Youtube Video: https://youtu.be/T0wEstYgztU
 
